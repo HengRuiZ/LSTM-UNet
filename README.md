@@ -1,6 +1,5 @@
 # LSTM-UNet
 The official implementation of LSTM-UNet
 
-Progressive auto-segmentation for cone-beam computed tomography-based online adaptive radiotherapy
+[Progressive auto-segmentation for cone-beam computed tomography-based online adaptive radiotherapy](https://doi.org/10.1016/j.phro.2024.100610)
 
-https://www.sciencedirect.com/science/article/pii/S2405631624000800?via%3Dihub
